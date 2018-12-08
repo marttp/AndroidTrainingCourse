@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="result_here">Result show here</string>
+
+    <string name="arith_error">Operand invalid</string>
+    <string name="something_error">Something Error</string>
+</resources>
